@@ -146,11 +146,12 @@ const App = () => {
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-8">
-              Computer Science & Engineering Student | Fresher
+              B.E. Computer Science & Engineering | 2025 Graduate Fresher
             </p>
             <p className="text-lg text-gray-400 mb-12 max-w-2xl mx-auto">
-              A passionate fresher with strong skills in web development, eager to
-              contribute to innovative projects and grow as a software developer.
+              Recent Computer Science graduate with strong skills in web
+              development, eager to apply knowledge and contribute to
+              real-world projects.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <button
@@ -197,13 +198,13 @@ const App = () => {
 
               <div>
                 <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                  I am a final-year Computer Science and Engineering student
-                  with hands-on experience in projects related to Deep Learning,
-                  IoT, Web Development, and Databases.
+                  I am a 2025 graduate in Computer Science and Engineering with
+                  hands-on experience in academic projects involving Deep
+                  Learning, IoT, Web Development, and Databases.
                 </p>
                 <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-                  As a fresher, I am seeking an opportunity to apply my skills,
-                  learn from industry experts, and contribute to real-world
+                  I am looking for entry-level opportunities to apply my skills,
+                  gain industry exposure, and contribute to building impactful
                   software solutions.
                 </p>
 
@@ -309,7 +310,7 @@ const App = () => {
 
             <div className="text-center mb-12">
               <p className="text-lg text-gray-300 mb-8">
-                I am currently looking for entry-level opportunities in web
+                I am actively seeking entry-level opportunities in web
                 development, front-end development and software engineering. Feel free to reach out!
               </p>
 
@@ -352,7 +353,7 @@ const App = () => {
       <footer className="py-8 px-4 bg-gray-800 border-t border-gray-700">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-gray-400">
-            © 2025 SURYA S K | Fresher Portfolio | Built with React & Tailwind CSS
+            © 2025 SURYA S K | Recent Graduate Portfolio | Built with React & Tailwind CSS
           </p>
         </div>
       </footer>
