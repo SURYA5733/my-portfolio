@@ -57,7 +57,7 @@ const App = () => {
       title: "Gas & Smoke Detector (IoT)",
       description:
         "IoT-based system to monitor gas/smoke levels in real-time, providing alerts for safety in homes and industries.",
-      tech: ["IoT", "Sensors", "Embedded Systems"],
+      tech: ["IoT", "Sensors", "Embedded Systems", "NodeMCU"],
       github: "https://github.com/SURYA5733/gas-and-smoke-detector-with-LPG-gas-level-monitoring-system",
       live: "#",
       image: "bg-gradient-to-br from-blue-400 to-cyan-400",
