@@ -50,7 +50,7 @@ const App = () => {
         "Developed a machine learning system in Python to analyze climate data and predict crop yields for smarter agriculture.",
       tech: ["Python", "Machine Learning", "Pandas", "Matplotlib"],
       github: "https://github.com/SURYA5733/crop-yield-prediction",
-      live: "#https://github.com/SURYA5733/gas-and-smoke-detector-with-LPG-gas-level-monitoring-system",
+      live: "#",
       image: "bg-gradient-to-br from-green-400 to-blue-500",
     },
     {
@@ -58,7 +58,7 @@ const App = () => {
       description:
         "IoT-based system to monitor gas/smoke levels in real-time, providing alerts for safety in homes and industries.",
       tech: ["IoT", "Sensors", "Embedded Systems"],
-      github: "#",
+      github: "https://github.com/SURYA5733/gas-and-smoke-detector-with-LPG-gas-level-monitoring-system",
       live: "#",
       image: "bg-gradient-to-br from-blue-400 to-cyan-400",
     },
